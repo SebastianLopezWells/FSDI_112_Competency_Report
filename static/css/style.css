@@ -1,0 +1,17 @@
+.author-options {
+    text-align: right;
+}
+
+.post-detail {
+    border: 1px solid rgb(195, 157, 157);
+    border-radius: 20px;
+    padding: 25px;
+}
+
+.container {
+    margin-top: 25px;
+}
+
+.navbar {
+    background-color: blanchedalmond !important;
+}
